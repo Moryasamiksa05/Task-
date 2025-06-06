@@ -1,4 +1,4 @@
-// incrementGenerator.js
+
 
 const first = parseInt(prompt("Enter start value:"), 10);
 const last = parseInt(prompt("Enter end value:"), 10);
